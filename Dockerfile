@@ -1,6 +1,6 @@
 FROM centos:centos7
 MAINTAINER ome-devel@lists.openmicroscopy.org.uk
-LABEL org.openmicroscopy.release-date="Mon  4 Sep 2017 22:22:38 BST"
+LABEL org.openmicroscopy.release-date="Tue  5 Sep 2017 06:36:30 BST"
 
 RUN mkdir /opt/setup
 WORKDIR /opt/setup
